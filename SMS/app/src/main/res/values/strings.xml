@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SMS</string>
+    <string name="clear_alert">Clear Alert</string>
+    <string name="no_messages_received">No messages received.</string>
+</resources>
